@@ -1,0 +1,12 @@
+{
+/* ..Root of package.json file */
+  "type":"module",
+    "exports": {
+      ".": "./index.js", /* Entry File of Your Project */
+
+	  /* Folders that contains EcmaScript */
+      "./lib/*js": "./lib/*js",
+	  "./lib/*mjs": "./lib/*mjs",
+	  "./lib/*cjs": "./lib/*cjs"
+    }
+}
