@@ -3,7 +3,7 @@
 
 Basic Javascript solutions that can help a lot.
 
-I tried to write simplfy and easily readible code.
+I tried to write simple and easily readible code.
 These solutions was hard to find for me when I was newbie.
 I hope this repo can help!
 
