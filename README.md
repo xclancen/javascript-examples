@@ -11,7 +11,7 @@ By Clancen
 
 **Links:**
 
-<table style="background-color:#fff;"><tr>
+<table><tr>
 <td>
   <a href="https://www.fiverr.com/clancen">
   <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,h_224/v1/attachments/generic_asset/asset/d60fda24bdfb2d58a9f9fcdd9b2e019e-1668776270346/Fiverr_Logo_GreenGreen_RGB%20%281%29.png" width="100">
